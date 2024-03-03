@@ -3,4 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"jenkins first program"<<endl;
+    cout<<"good night"<<endl;
 }
